@@ -2,9 +2,9 @@ Simple DNS Server written in Python work only for types: A, AAAA, CNAME, SOA, MX
 
 Features:
         
-        1. serves from zone file
-        2. makes caches
+    1. serves from zone file
+    2. makes caches
 
-to run the project open up terminal and run
+To run the project open up terminal and run
     
     python dns_server.py "IP address" "port" "path to config directory"
