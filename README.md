@@ -7,4 +7,4 @@ Features:
 
 To run the project open up terminal and run
     
-    python dns_server.py "IP address" "port" "path to config directory"
+    python dns_server.py "path to config directory" "IP address" "port"
